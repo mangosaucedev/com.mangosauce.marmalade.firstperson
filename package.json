@@ -6,7 +6,7 @@
     "unity": "2020.3",
     "unityRelease": "33f1",
     "dependencies": {
-        "com.mangosauce.marmalade.core" : "0.0.1"
+        "https://github.com/mangosaucedev/com.mangosauce.marmalade.core.git" : "0.0.1"
     },
     "keywords": [
         "mangosauce",
