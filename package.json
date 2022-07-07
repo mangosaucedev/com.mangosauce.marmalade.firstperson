@@ -1,0 +1,25 @@
+{
+    "name": "com.mangosauce.marmalade.firstperson",
+    "version": "0.0.1",
+    "displayName": "Marmalade First Person Library",
+    "description": "",
+    "unity": "2020.3",
+    "unityRelease": "33f1",
+    "dependencies": {
+        "com.mangosauce.marmalade.core" : "0.0.1"
+    },
+    "keywords": [
+        "mangosauce",
+        "marmalade"
+    ],
+    "author": {
+        "name": "Mangosauce",
+        "email": "mangosaucedev@gmail.com",
+        "url": "https://www.twitter.com/mangosaucedev"
+    },
+    "repository": {
+        "url": "https://github.com/mangosaucedev/com.mangosauce.marmalade.core",
+        "type": "git",
+        "revision": "a552e35be673464bb187e049420ae9ab"
+    }
+}

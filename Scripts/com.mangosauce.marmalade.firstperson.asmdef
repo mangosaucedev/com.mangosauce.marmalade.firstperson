@@ -1,0 +1,16 @@
+{
+    "name": "com.mangosauce.marmalade.firstperson",
+    "rootNamespace": "Marmalade",
+    "references": [
+        "GUID:1fd9f2f4f0361bb43b5d64f4239bec77"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
