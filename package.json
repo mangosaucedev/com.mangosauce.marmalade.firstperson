@@ -6,11 +6,12 @@
     "unity": "2020.3",
     "unityRelease": "33f1",
     "dependencies": {
-        "com.mangosauce.marmalade.core" : ""
+        "com.mangosauce.marmalade.core" : "0.0.1"
     },
     "keywords": [
         "mangosauce",
-        "marmalade"
+        "marmalade",
+        "fps"
     ],
     "author": {
         "name": "Mangosauce",
