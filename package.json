@@ -6,7 +6,7 @@
     "unity": "2020.3",
     "unityRelease": "33f1",
     "dependencies": {
-        "https://github.com/mangosaucedev/com.mangosauce.marmalade.core.git" : "0.0.1"
+        "com.mangosauce.marmalade.core" : "0.0.1"
     },
     "keywords": [
         "mangosauce",
@@ -19,8 +19,8 @@
         "url": "https://www.twitter.com/mangosaucedev"
     },
     "repository": {
-        "url": "https://github.com/mangosaucedev/com.mangosauce.marmalade.core",
+        "url": "https://github.com/mangosaucedev/com.mangosauce.marmalade.firstperson",
         "type": "git",
-        "revision": "a552e35be673464bb187e049420ae9ab"
+        "revision": "b5a33f8a7d864bf5b66e24958dc20ef7"
     }
 }
